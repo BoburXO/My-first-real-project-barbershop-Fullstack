@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+ border: 0;
+
+}
+*::selection{
+    background-color:  rgba(255, 110, 64, 1) !important;
+  color: #fff !important;
+}
+*,*:before,*:after{
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+nav,footer,header,aside{display: block;}
+
+html,body{
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+input,button,textarea{font-family: inherit;}
+
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding: 0;border: 0;}
+a, a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  overflow-x: hidden;
+
+}
+body::-webkit-scrollbar {
+  width: 1em;
+}
+
+/* body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+} */
+
+body::-webkit-scrollbar-thumb {
+background-color: #777;
+outline: 1px solid #555;
+}
+.gukTrM .nimage {
+   margin-top: 0px !important; 
+}
+.button1 .btn{
+  background: rgba(255, 110, 64, 1);
+  position: fixed;
+  bottom: 10px;
+  height: 40px;
+  border-radius: 10%;
+  width: 50px;
+  right: 38px;
+}
+
+.Toastify__progress-bar-theme--light {
+  background: #0298BD !important;
+}
+
+@media all and (max-width:858px) {
+  .button1 .btn {
+    right: 10px;
+  }
+}
+@media all and (max-width:533px) {
+  .button1 .btn {
+    right: 0px;
+    left: 88%;
+  }
+}
+@media all and (max-width:454px) {
+  .button1 .btn {
+    right: 0px;
+    left: 85%;
+  }
+}
+@media all and (max-width:406px) {
+  .button1 .btn {
+    right: 0px;
+    left: 80%;
+  }
+}

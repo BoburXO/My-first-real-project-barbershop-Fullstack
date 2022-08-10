@@ -1,0 +1,108 @@
+{
+    "selector": "EN",
+    "title":"COOL BARBER",
+    "nav": "Daily from 9 to 20",
+    "nav1": "About Us",
+    "nav2": "Our Masters",
+    "nav3": "Notes",
+    "nav4": "Booking",
+    "nav5": "Log Out",
+    "header":{
+      "text":"Men’s Barbershop",
+      "text1":"in The Middle East",
+      "text2":"THE HIGHEST RATED",
+      "text3":"High level of work skills",
+      "text4":"Choose a time that suits you",
+      "text5":"Book Now",
+      "text6":"Briefly describe the benefit",
+      "text7":"Advertising for you and your partners",
+      "text8":"Their Logo"
+    },
+      "sect1":{
+        "post":"About Us",
+        "post1":"Barbers are licensed to cut, color, perm, shampoo, and style hair, and provide shaves.",
+        "post2":"They may use tools like scissors, clippers, razors, and combs.",
+        "post3":"Barbers are licensed to color, bleach, give permanent waves, and add highlights to hair.",
+        "post4":"Our masters and their masterpieces",
+        "post5":"Our Instagram"
+      },
+      "sect2":{
+       "str":"Testimonials", 
+       "str1":"Subheading that reveals the details of the ", 
+       "str2":"heading and calls for the target action", 
+       "str3":"Darrell Steward", 
+       "str4":"Describe the feedback or end result the person received after interacting with you. What exactly did it give him.", 
+       "str5":"Read full testimonial",
+       "str6":"Marvin McKinney",
+       "str7":"Ronald Richard",
+       "str8":"Cody Fisher",
+       "str9":"Darrell Steward"
+      },
+      "aside":{
+        "text":"Our Prices",
+        "text1":"Subheading that reveals the details of the title and calls for the targeted action",
+        "text2":"Devon Lane",
+        "text3":"Ronald Richards",
+        "text4":"Jane Cooper",
+        "text5":"Haircut:",
+        "text6":"Beard:",
+        "text7":"Shaving:",
+        "text8":"Waxing:",
+        "text9":"min"
+      },
+      "footer":{
+        "one":"Email:",
+        "two":"Telegram:",
+        "three":"Our location:",
+        "four":"Daily from 9 to 20",
+        "five":"Contacts",
+        "six":"Our Telegram Group"
+     },
+     "masters":{
+       "post":"Our craftsmen make",
+       "post1":"visitors beautiful",
+       "post2":"and happier",
+       "post3":"Text placed at the bottom",
+       "post4":"of the title to reveal details",
+       "post5":"Devon",
+       "post6":"Lane",
+       "post7":"My name is Devon Lane and I graduated",
+       "post8":"from a special training school for",
+       "post9":" barbers. My level of knowledge is average.",
+       "post10":"I have been working in this field for 5 years.",
+       "post11":" I know all kinds of styles.",
+       "post12":"For example: shaving,",
+       "post13":"beard, haircut, waxing.",
+       "post14":"See all works",
+       "post15":"My name is Ronald Richards and I graduated",
+       "post16":"My name is Jane Cooper and I graduated",
+       "post17":"Ronald",
+       "post18":"Richards",
+       "post19":"Jane",
+       "post20":"Cooper"
+     },
+     "notes":{
+       "str":"Enter something...",
+       "str1":"Save",
+       "str2":"Name"
+     },
+     "book":{
+       "post":"You can booking here...",
+       "post1":"Booking",
+       "post2":"Details",
+       "post3":"Time",
+       "post4":"End time",
+       "post22":"Username",
+       "post5":"Confirm Booking",
+       "post6":"Our Telegram",
+       "post7":"Notes by Telegram",
+       "post8":"Search barbers...",
+       "post9":"Note by Telegram",
+       "post10":"Confirm",
+       "post11":"Confirm name",
+       "post12":"Please confirm your name",
+       "post13":"I agree to all terms of use",
+       "post14":"If you do not accept our terms.We cannot accept your order!"
+     }
+  }
+  
